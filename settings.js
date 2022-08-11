@@ -50,7 +50,7 @@ global.botname = 'Dr.Crazy - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "Dr.Crazy" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ DR.crazy]' //
+global.footer = '[ *DR.crazy*]' //
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/desh2' //Change Your Button's URL
